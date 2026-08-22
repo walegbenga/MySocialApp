@@ -1,0 +1,15 @@
+android/.gradle/
+android/build/
+android/*/build/
+android/local.properties
+android/.idea/
+*.iml
+backend/vendor/
+backend/.env
+backend/storage/*.key
+backend/storage/framework/
+backend/storage/logs/
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
